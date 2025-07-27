@@ -1,0 +1,1 @@
+{"name":"A. Game with Integers","url":"https://codeforces.com/contest/1899/problem/A","interactive":false,"memoryLimit":0,"timeLimit":3000,"group":"Codeforces - Codeforces Round 909 (Div. 3)","tests":[{"id":1753145460709,"input":"6\n1\n3\n5\n100\n999\n1000\n","output":"First\nSecond\nFirst\nFirst\nSecond\nFirst\n"}],"srcPath":"/workspaces/CP-CF/A_Game_with_Integers.cpp"}
